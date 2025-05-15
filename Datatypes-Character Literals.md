@@ -15,7 +15,8 @@ print(char1)
 print(char2)
 ```
 ## Output
-![Uploading image.png…]()
+![Screenshot 2025-05-15 134039](https://github.com/user-attachments/assets/b55e29dd-e58c-4194-b752-78a9f5ee7635)
 
 
 ## Result
+         program executed successfully
