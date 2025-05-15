@@ -12,11 +12,13 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+```
 num = int(input("Enter a number: "))
 if num % 2 == 0:
     print(f"{num} is Even.")
 else:
     print(f"{num} is Odd.")
+```
 
 
 ## Output
